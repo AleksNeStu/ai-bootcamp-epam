@@ -10,9 +10,10 @@ authors = ["Your Name <your.email@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-#openai = "^1.50.2"
+openai = "^1.50.2"
 python-dotenv = "^1.0.1"
-openai = "0.27"
+# Use for some old parts of the code
+#openai = "0.27"
 redlines = "^0.4.2"
 panel = "^1.5.1"
 jupyter-bokeh = "^4.0.5"
