@@ -1,6 +1,8 @@
 
 https://learn.deeplearning.ai/courses/ai-agents-in-langgraph  
 
+https://smith.langchain.com/hub/hwchase17
+
 
 # Langchain Course 5, LangGraph
 
