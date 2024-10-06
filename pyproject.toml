@@ -17,6 +17,7 @@ python-dotenv = "^1.0.1"
 redlines = "^0.4.2"
 panel = "^1.5.1"
 jupyter-bokeh = "^4.0.5"
+gradio = "^4.44.1"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.1.1"
